@@ -31,7 +31,7 @@ The algorithm fills empty cells by trying digits 1-9 and recursively validates t
 ## Learning Outcome
 - Recursive problem solving
 - Constraint validation logic
-- Algorithm implementation# SCT_SD_3
+- Algorithm implementation
 
 ## Screenshot
 ![Output](Screenshots/Output.png)
