@@ -11,7 +11,6 @@ A Java implementation of a 9x9 Sudoku solver using the Backtracking algorithm.
 - Recursive backtracking approach
 - Validity checking (row, column, 3x3 subgrid)
 - Formatted board display
-- Execution time calculation
 
 ## Algorithm Used
 Backtracking:
